@@ -1,0 +1,4 @@
+C:\Users\Fife\Desktop\多线程处理\多线程处理\bin\Debug\多线程处理.exe
+C:\Users\Fife\Desktop\多线程处理\多线程处理\bin\Debug\多线程处理.pdb
+C:\Users\Fife\Desktop\多线程处理\多线程处理\obj\Debug\多线程处理.exe
+C:\Users\Fife\Desktop\多线程处理\多线程处理\obj\Debug\多线程处理.pdb
